@@ -1,0 +1,17 @@
+com.example.weatherapk.app-jetified-window-java-1.0.0-beta04-0 C:\Users\51925\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.weatherapk.app-jetified-play-services-base-18.0.1-1 C:\Users\51925\.gradle\caches\transforms-3\082fa8f1e076fd76c98f4d760b4e67b1\transformed\jetified-play-services-base-18.0.1\res
+com.example.weatherapk.app-core-1.8.0-2 C:\Users\51925\.gradle\caches\transforms-3\270e9501dde0430a83746f97bf9ab544\transformed\core-1.8.0\res
+com.example.weatherapk.app-jetified-play-services-basement-18.0.0-3 C:\Users\51925\.gradle\caches\transforms-3\5ff4a353de7064fc161fb566343d6916\transformed\jetified-play-services-basement-18.0.0\res
+com.example.weatherapk.app-lifecycle-runtime-2.3.1-4 C:\Users\51925\.gradle\caches\transforms-3\76da31ad033c53187dd7271282d0f7d2\transformed\lifecycle-runtime-2.3.1\res
+com.example.weatherapk.app-jetified-annotation-experimental-1.1.0-5 C:\Users\51925\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.weatherapk.app-jetified-window-1.0.0-beta04-6 C:\Users\51925\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.weatherapk.app-debug-7 C:\Users\51925\Desktop\DartApk\weatherapk\android\app\src\debug\res
+com.example.weatherapk.app-main-8 C:\Users\51925\Desktop\DartApk\weatherapk\android\app\src\main\res
+com.example.weatherapk.app-pngs-9 C:\Users\51925\Desktop\DartApk\weatherapk\build\app\generated\res\pngs\debug
+com.example.weatherapk.app-resValues-10 C:\Users\51925\Desktop\DartApk\weatherapk\build\app\generated\res\resValues\debug
+com.example.weatherapk.app-rs-11 C:\Users\51925\Desktop\DartApk\weatherapk\build\app\generated\res\rs\debug
+com.example.weatherapk.app-mergeDebugResources-12 C:\Users\51925\Desktop\DartApk\weatherapk\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.weatherapk.app-mergeDebugResources-13 C:\Users\51925\Desktop\DartApk\weatherapk\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.weatherapk.app-merged_res-14 C:\Users\51925\Desktop\DartApk\weatherapk\build\app\intermediates\merged_res\debug
+com.example.weatherapk.app-packaged_res-15 C:\Users\51925\Desktop\DartApk\weatherapk\build\geocoding\intermediates\packaged_res\debug
+com.example.weatherapk.app-packaged_res-16 C:\Users\51925\Desktop\DartApk\weatherapk\build\geolocator_android\intermediates\packaged_res\debug
